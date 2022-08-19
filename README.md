@@ -1,1 +1,1 @@
-it is lucky's file
+it is lucky's project help file
